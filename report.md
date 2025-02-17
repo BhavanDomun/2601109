@@ -1,1 +1,2 @@
 In this lab,i first  initialized a Git repository, made a few commits, and deployed the HTML page to GitHub Pages. I started by creating the following files files; student-info.txt, report.md, and index.html.I then committed my changes before creating a branch named feature/student-details.Lastly i deployed my site to GitHub pages
+This is the change for the new branch
